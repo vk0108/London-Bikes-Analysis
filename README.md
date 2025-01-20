@@ -2,6 +2,7 @@
 
 This repository showcases an in-depth analysis of London bike rentals using Power BI. The project explores key patterns, trends, and actionable insights to understand the dynamics of bike rental usage in the city.
 
+## Introduction
 This analysis focuses on:
 - Identifying seasonal and temporal trends
 - Analyzing the influence of weather on rentals
@@ -9,6 +10,7 @@ This analysis focuses on:
 
 The analysis is presented as an interactive Power BI dashboard.
 
+## Dataset 
 The dataset, `london_merged.csv`, includes information such as:
 - **Datetime**: Date and time of rentals
 - **Season**: Seasonal categorization
