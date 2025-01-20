@@ -6,3 +6,15 @@ This analysis focuses on:
 - Identifying seasonal and temporal trends
 - Analyzing the influence of weather on rentals
 - Highlighting user behavior across different categories
+
+The analysis is presented as an interactive Power BI dashboard.
+
+The dataset, `london_merged.csv`, includes information such as:
+- **Datetime**: Date and time of rentals
+- **Season**: Seasonal categorization
+- **Holiday**: Indicator for public holidays
+- **Weather**: Weather conditions during rentals
+- **Temperature**: Normalized temperature readings
+- **Humidity**: Normalized humidity values
+- **Wind Speed**: Normalized wind speed
+- **Count**: Total bike rentals
