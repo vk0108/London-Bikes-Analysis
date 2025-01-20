@@ -18,3 +18,8 @@ The dataset, `london_merged.csv`, includes information such as:
 - **Humidity**: Normalized humidity values
 - **Wind Speed**: Normalized wind speed
 - **Count**: Total bike rentals
+
+## Project Objectives
+1. Discover temporal and seasonal patterns in bike rentals.
+2. Examine correlations between weather conditions and rental counts.
+3. Provide actionable insights through interactive visualizations.
